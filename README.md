@@ -13,7 +13,9 @@
 ### Repository Structure ###
 
 /java    - Java exercise files (.java)
+
 /python  - Python exercise files (.py)
+
 README.md
 
 
