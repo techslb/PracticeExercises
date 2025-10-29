@@ -1,9 +1,11 @@
-### Java Exercises
+/* 
+Java Exercises
 ### October 28th 2025
 ### Platform: Codecademy
+*/
 
 
-### Exercise 1:
+//Exercise 1:
 
 public class Store {
   // instance fields
@@ -25,7 +27,7 @@ public class Store {
 }
 
 
-## Exercise 2:
+// Exercise 2:
 
 public class Main {
   public static void main(String[] args) {
@@ -37,7 +39,7 @@ public class Main {
 }
 
 
-## Exercise 3:
+// Exercise 3:
 
 /* 
 Store.java class
@@ -79,7 +81,7 @@ public class Main{
   }
 }
 
-## Exercise 4:
+// Exercise 4:
 
 // Store.java
 
@@ -114,7 +116,7 @@ public class Main {
   }
 }
 
-## Exercise 5:
+// Exercise 5:
 
 // Store.java
 
@@ -156,7 +158,7 @@ public class Main {
   }
 }
 
-## Exercise 6:
+// Exercise 6:
 
 // Store.java
 
@@ -188,4 +190,5 @@ public class Main {
     System.out.println(lemonadeStand);
     System.out.println(cookieShop);
   }
+
 }
